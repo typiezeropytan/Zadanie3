@@ -1,0 +1,11 @@
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\bin\Debug\net8.0\LegacyApp.deps.json
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfo.cs
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
+C:\Users\xxveg\Downloads\zadanie_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
